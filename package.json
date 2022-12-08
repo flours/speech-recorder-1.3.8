@@ -15,7 +15,7 @@
   "dependencies": {
     "bindings": "^1.5.0",
     "nan": "^2.14.1",
-    "onnxruntime": "^1.7.0",
+    "onnxruntime-node": "^1.13.1",
     "uuid": "^3.3.3",
     "webrtcvad": "^1.0.1"
   },
